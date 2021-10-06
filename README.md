@@ -1,2 +1,2 @@
 # PythonExercises
-My Pytthon exercises from "Curso em Vídeo"
+My Pytthon exercises 3-50 from "Curso em Vídeo"
